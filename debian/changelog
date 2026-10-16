@@ -1,4 +1,4 @@
-treeland-protocols (0.7.0) unstable; urgency=medium
+treeland-protocols (0.7.0.1) unstable; urgency=medium
 
   * feat: add normal role to dde-shell surface role enum
   * refactor(window-transition): attach rect to activation token string
